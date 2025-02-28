@@ -74,7 +74,7 @@ export default function ContactUsPage() {
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-envelope'></i> Email Address</h3>
-                            <Link to="mailto:avinashsrivastav652@gmail.com" target='blank' rel="noreferrer" className='text-light text-center'>avinashsrivastav@gmail.com</Link>
+                            <Link to="mailto:avinashsrivastav652@gmail.com" target='blank' rel="noreferrer" className='text-light text-center'>avinashsrivastav652@gmail.com</Link>
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-phone'></i> Phone</h3>
