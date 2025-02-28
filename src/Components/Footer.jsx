@@ -40,11 +40,11 @@ export default function Footer() {
                             <p className="mb-2">
                                 <i className="fa fa-map-marker me-3"></i>A-43, Sector 16, Noida
                             </p>
-                            <Link className="mb-2 text-light d-block" to="tel:+919873848036">
-                                <i className="fa fa-phone me-3"></i>+91-9873848036
+                            <Link className="mb-2 text-light d-block" to="tel:+916386241635">
+                                <i className="fa fa-phone me-3"></i>+91-6386241635
                             </Link>
-                            <Link className="mb-2 text-light d-block" to="mailto:vishankchauhan@gmail.com">
-                                <i className="fa fa-envelope me-3"></i>vishankchauhan@gmail.com
+                            <Link className="mb-2 text-light d-block" to="mailto:avinashsrivastav652@gmail.com">
+                                <i className="fa fa-envelope me-3"></i>avinashsrivastav652@gmail.com
                             </Link>
                             <div className="d-flex pt-2">
                                 <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-twitter"></i></a>
