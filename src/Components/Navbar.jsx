@@ -18,15 +18,15 @@ export default function Navbar() {
                     <div className="col-lg-7 px-5 text-start">
                         <div className="h-100 d-inline-flex align-items-center py-3 me-4">
                             <small className="fa fa-envelope text-primary me-2"></small>
-                            <Link to="mailto:vishankchauhan@gmail.com" target='_blank' rel='noreferrer'>vishankchauhan@gmail.com</Link>
+                            <Link to="mailto:avinashsrivastav652@gmail.com" target='_blank' rel='noreferrer'>avinashsrivastav652@gmail.com</Link>
                         </div>
                         <div className="h-100 d-inline-flex align-items-center py-3 me-4">
                             <small className="fa fa-phone text-primary me-2"></small>
-                            <Link to="tel:+919873848046" target='_blank' rel='noreferrer'>+91-9873848046</Link>
+                            <Link to="tel:+916386241635" target='_blank' rel='noreferrer'>+91-6386241635</Link>
                         </div>
                         <div className="h-100 d-inline-flex align-items-center py-3 me-4">
                             <small className="fa fa-whatsapp text-primary me-2"></small>
-                            <Link to="https://wa.me/+919873848046" target='_blank' rel='noreferrer'>+91-9873848046</Link>
+                            <Link to="https://wa.me/+916386241635" target='_blank' rel='noreferrer'>+91-916386241635</Link>
                         </div>
                     </div>
                     <div className="col-lg-5 px-5 text-end">
