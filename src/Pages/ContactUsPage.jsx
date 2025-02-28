@@ -74,15 +74,15 @@ export default function ContactUsPage() {
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-envelope'></i> Email Address</h3>
-                            <Link to="mailto:vishankchauhan@gmail.com" target='blank' rel="noreferrer" className='text-light text-center'>vishankchauhan@gmail.com</Link>
+                            <Link to="mailto:avinashsrivastav652@gmail.com" target='blank' rel="noreferrer" className='text-light text-center'>avinashsrivastav@gmail.com</Link>
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-phone'></i> Phone</h3>
-                            <Link to="tel:+919873848046" target='blank' rel="noreferrer" className='text-light text-center'>+91-9873848046</Link>
+                            <Link to="tel:+916386241635" target='blank' rel="noreferrer" className='text-light text-center'>+91-6386241635</Link>
                         </div>
                         <div className="col-md-3 col-sm-6 card bg-primary p-4 mb-5 border-5 border-light">
                             <h3 className='text-light text-center'><i className='fa fa-whatsapp'></i> Whats App</h3>
-                            <Link to="https://wa.me/+919873848046" target='blank' rel="noreferrer" className='text-light text-center'>+91-9873848046</Link>
+                            <Link to="https://wa.me/+916386241635" target='blank' rel="noreferrer" className='text-light text-center'>+91-6386241635</Link>
                         </div>
                     </div>
                     <div className="row g-5">
